@@ -1,7 +1,7 @@
 /*
 <javascriptresource>
-<name>$$$/JavaScripts/ScriptName/Menu=Berglund...</name>
-<about>$$$/JavaScripts/ScriptName/About=Transfer of paths, channels and raster layers to another document.^r^rCopyright 2021 Fnykis</about>
+<name>$$$/JavaScripts/fnykis-berglund/Menu=Berglund...</name>
+<about>$$$/JavaScripts/fnykis-berglund/About=Transfer of paths, channels and raster layers to another document.^r^rCopyright 2021 Fnykis</about>
 <category>Fnykis</category> 
 </javascriptresource>
 */
